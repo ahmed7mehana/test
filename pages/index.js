@@ -1,7 +1,6 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from 'next/font/google'
-import  Main from '../components/main'
+import  Main from '../components/Main'
 import Servece from '@/components/Servece'
 import About from '@/components/About'
 
