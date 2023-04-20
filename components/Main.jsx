@@ -1,34 +1,23 @@
-import React, { useEffect, useState } from 'react'
+import React from "react";
 
 function Main() {
-  const slides = [
-    {
-      url: 'https://preview.colorlib.com/theme/cozastore/images/slide-01.jpg.webp',
-    },
-    {
-      url: 'https://preview.colorlib.com/theme/cozastore/images/slide-02.jpg.webp',
-    },
-    {
-      url: 'https://preview.colorlib.com/theme/cozastore/images/slide-03.jpg.webp',
-    },    {
-      url: 'https://images.pexels.com/photos/14528428/pexels-photo-14528428.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load',
-    },    {
-      url: 'https://images.pexels.com/photos/10717311/pexels-photo-10717311.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load',
-    },
-
-  ];
-
 
   return (
-<div >
-<div  >
+    <div className=' relative top-[50px] max-w-[1400px] h-full w-full m-auto     '>
 
-asdass
+    <img src='../img/svg__1_-removebg-preview.png' className='bg-[#eee]   w-full h-[60px]'/>
+
+      <div
+        className='w-full h-screen sm:h-[450px]  bg-center  bg-[#f78da7] text-center flex flex-col sm:flex-row justify-around items-center'>
+      <p className=" text-[60px] font-['Kristi'] text-white ">We make your  dreams <br/> come true </p>
+      <img src="../img/photo_2023-04-12_13-57-27-removebg-preview.png"/>
+
+      </div>
 
 
-  </div>
-</div>
-  )
+      <img src='../img/wave (1).png' className='bg-[#eee]   w-full h-[150px]'/>
+    </div>
+  );
 }
 
-export default Main
+export default Main;
