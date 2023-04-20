@@ -1,5 +1,5 @@
 import { Inter } from 'next/font/google'
-import Main from '@/Components/Main'
+import Main from '../Components/Main'
 import Head from 'next/head'
 import BestS from '@/Components/BestS'
 
