@@ -1,0 +1,59 @@
+[
+    {
+    "id":"1",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c1.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"2",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c2.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"3",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c3.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"4",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c4.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"5",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c5.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"6",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c6.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"7",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c7.jpeg",
+    "price":"30$"
+    },
+    {
+    "id":"8",
+    "name":"candle",
+    "description":"Candles Handmade",
+    "image":"./img/c8.jpeg",
+    "price":"30$"
+    }
+    
+]
