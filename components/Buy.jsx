@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React, { useState } from 'react'
 import { AiOutlineClose} from 'react-icons/ai';
-import Form from '@/Components/Form';
+import Form from './Form';
 
 function Buy({setShow,show,itemid,ninja}) {
 
