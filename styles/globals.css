@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.background-slider {
-    height: 100vh;
-    background-position: center;
-    background-size: cover;
-  }
-  
-  .background-slider__slide {
-    background-repeat: no-repeat;
-  }
-  
+ body{
+  background: #eee;
+ }
