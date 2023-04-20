@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Data from '../../Data';
 import { Button } from 'react-bootstrap';
-import Buy from '../../Components/Buy';
+import Buy from '@/components/Buy';
 
 export const getStaticPaths = async () => {
     const paths = Data.map(ninja => {

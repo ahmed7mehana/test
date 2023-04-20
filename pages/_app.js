@@ -1,6 +1,6 @@
-import Footer from '../Components/Footer'
-import Navba from '../Components/Navba'
+import Navba from '@/components/navpar'
 import '../styles/globals.css'
+import Footer from '@/components/Footer'
 
 export default function App({ Component, pageProps }) {
   return (
